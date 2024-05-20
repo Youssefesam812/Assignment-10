@@ -1,0 +1,15 @@
+@media screen and (min-width:500px) {
+    .w_div {
+        width: 75%;
+        height: 50%;
+        border-radius: 10px;
+    }
+}
+
+@media screen and (min-width:720px) {
+    .w_div {
+        width: 37%;
+        height: 45%;
+        border-radius: 10px;
+    }
+}
